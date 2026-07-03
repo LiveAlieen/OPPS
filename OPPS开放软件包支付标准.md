@@ -795,7 +795,7 @@ OPPS 不是终点。它只是一个开始。
 
 - 版本： 1.1.0
 - 状态： 草案
-- 作者： live.aileen or 白芊音
+- 作者： live.aileen or 白芊昔
 - 更新日期： 2026-07-03
 - 链接： https://github.com/OPPS/OPPS
 - 邮箱： live.aileen@outlook.com

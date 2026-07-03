@@ -794,7 +794,7 @@ OPPS is not the end. It is only the beginning.
 
 - Version: 1.1.0
 - Status: Draft
-- Author: live.aileen / Bai Qianyin
+- Author: live.aileen / Bai Qianxi
 - Updated: 2026-07-03
 - Link: https://github.com/OPPS/OPPS
 - Email: live.aileen@outlook.com
